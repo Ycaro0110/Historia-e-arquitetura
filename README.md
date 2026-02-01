@@ -1,6 +1,7 @@
 # Evolução da Arquitetura de Software  
 
 ---
+O texto fala sobre a evolução de um desenvolvedor, **Alex**, desde os conceitos fundamentais de organização de código até arquiteturas complexas e escaláveis, como **Clean Architecture** e **Microserviços**.
 
 ## I. Fundamentos e Camadas de Isolamento
 
